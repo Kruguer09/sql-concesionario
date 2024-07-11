@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<taller>
+    <rueda ID="101">
+        <marca>Michelín</marca>
+        <modelo>lluvia</modelo>
+        <ancho>22</ancho>
+        <perfil>ALTO</perfil>
+        <diametro>54</diametro>
+        <ic>98</ic>
+        <iv>H</iv>
+        <precio>123</precio>
+    </rueda>
+    <rueda ID="102">
+        <marca>Marca1</marca>
+        <modelo>Modelo1</modelo>
+        <ancho>23</ancho>
+        <perfil>BAJO</perfil>
+        <diametro>55</diametro>
+        <ic>70</ic>
+        <iv>N</iv>
+        <precio>100</precio>
+    </rueda>
+    <rueda ID="103">
+        <marca>Marca2</marca>
+        <modelo>Modelo2</modelo>
+        <ancho>24</ancho>
+        <perfil>MEDIO</perfil>
+        <diametro>56</diametro>
+        <ic>80</ic>
+        <iv>Q</iv>
+        <precio>110</precio>
+    </rueda>
+    <rueda ID="104">
+        <marca>Marca3</marca>
+        <modelo>Modelo3</modelo>
+        <ancho>25</ancho>
+        <perfil>ALTO</perfil>
+        <diametro>57</diametro>
+        <ic>90</ic>
+        <iv>R</iv>
+        <precio>120</precio>
+    </rueda>
+    <rueda ID="120">
+        <marca>Marca20</marca>
+        <modelo>Modelo20</modelo>
+        <ancho>42</ancho>
+        <perfil>BAJO</perfil>
+        <diametro>74</diametro>
+        <ic>110</ic>
+        <iv>Y</iv>
+        <precio>200</precio>
+    </rueda>
+</taller>
